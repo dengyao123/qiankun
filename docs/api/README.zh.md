@@ -49,7 +49,7 @@ toc: menu
 
       - ✅ https://app.com/users/123/profile
       - ✅ https://app.com/users/123/profile/sub-profile/
-      - 🚫 https://app.com/users//profile/sub-profile/
+      - 🚫 https://app.com/users/profile/sub-profile/
       - 🚫 https://app.com/users/profile/sub-profile/
 
       `'/pathname/#/hash'`
